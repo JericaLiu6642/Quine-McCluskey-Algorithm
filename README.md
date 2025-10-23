@@ -141,7 +141,7 @@ No external libraries required.
 
 - **Name**: 劉又慈 (Liu Yu-Tzu)  
 - **Student ID**: E24116071  
-- **Department**: Electrical Engineering 115  
+- **Department**: Electrical Engineering (115)  
 - **School**: National Cheng Kung University
 
 ---
